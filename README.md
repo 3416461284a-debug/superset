@@ -1,3 +1,28 @@
+<!-- 中文用途说明：开始 -->
+# 复杂图表与团队分析看板｜Superset
+
+> **一句话看懂：制作复杂图表和团队分析看板。**
+
+| 你想了解什么 | 中文说明 |
+|---|---|
+| 这个工具能做什么 | 制作复杂图表和团队分析看板。 |
+| 怎么使用 | 部署后通过网页界面查询数据、制作图表和分析看板。 |
+| 适合谁 | 有较复杂图表或团队分析需求的人。 |
+| 主要限制 | 部署较复杂，官方不正式支持Windows。 |
+| 后续可以怎么改 | 准备合适的运行环境，预设中文行业指标。 |
+
+**当前状态：代码已复制到这个账号；尚未安装或实际运行验证。上面的修改建议还没有实施。**
+
+[查看中文工具总目录](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1) · [查看各工具的详细评估](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1/03_详细报告和核验记录/%E7%83%AD%E9%97%A8%E5%B7%A5%E5%85%B7%E7%BC%BA%E9%99%B7%E4%B8%8E%E6%94%B9%E9%80%A0%E6%8A%A5%E5%91%8A.md)
+
+中文用途整理日期：2026年10月25日。
+<!-- 中文用途说明：结束 -->
+
+---
+
+<details>
+<summary>原项目详细说明（点击展开）</summary>
+
 <!--
 Licensed to the Apache Software Foundation (ASF) under one
 or more contributor license agreements.  See the NOTICE file
@@ -256,3 +281,6 @@ Understanding the Superset Points of View
 
 <!-- telemetry/analytics pixel: -->
 <img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=bc1c90cd-bc04-4e11-8c7b-289fb2839492" />
+
+
+</details>
